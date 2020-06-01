@@ -1,0 +1,12 @@
+body{
+  background-image: url('stars2.png');
+}
+
+h1, h2, h3, h4, h5{
+  color: white;
+}
+
+.logoimage{
+  width: 100px;
+  height: 50px;
+}
